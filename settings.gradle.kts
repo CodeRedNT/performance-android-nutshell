@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "performance-android-nutshell"
 include(":app")
+include(":benchmark")
